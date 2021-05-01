@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with  [Todo-App Live Demo](https://tinder-bot-c8dae.web.app)
 
-developed a [web app](https://todo-app-dad9c.web.app/) Single Page Application [(SPA)](https://en.wikipedia.org/wiki/Single-page_application) using ReactJS and HTML, CSS for Design.
+developed a [web app](https://tinder-bot-c8dae.web.app/) Single Page Application [(SPA)](https://en.wikipedia.org/wiki/Single-page_application) using ReactJS and HTML, CSS for Design.
 
 Hosted online(firebase)
 
