@@ -1,0 +1,25 @@
+.header{
+
+    /*   display:flex;-->  it display content in row */
+    display:flex;
+
+    /* it gives splacing */
+    justify-content: space-between;
+
+    align-items: center;
+
+    border-bottom: 1px solid #f9f9f9;
+
+}
+
+.header_logo{
+    height:40px;
+    /* object-fit:content: it is game changer ; */
+    object-fit:contain;
+   
+}
+
+.header_icon{
+    padding: 20px;
+
+}
