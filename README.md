@@ -13,7 +13,30 @@ some more features in tinder card
 
 
 Snapshots of the todo-app 👇
-![Alt Text](Screenshot%20(274).png?raw=true "Title")
+![Alt Text](Screenshot%20(282).png?raw=true "Title")
+
+Snapshots of the todo-app 👇
+![Alt Text](Screenshot%20(283).png?raw=true "Title")
+
+Snapshots of the todo-app 👇
+![Alt Text](Screenshot%20(284).png?raw=true "Title")
+
+Snapshots of the todo-app 👇
+![Alt Text](Screenshot%20(285).png?raw=true "Title")
+
+Snapshots of the todo-app 👇
+![Alt Text](Screenshot%20(286).png?raw=true "Title")
+
+Snapshots of the todo-app 👇
+![Alt Text](Screenshot%20(287).png?raw=true "Title")
+
+Snapshots of the todo-app 👇
+![Alt Text](Screenshot%20(288).png?raw=true "Title")
+
+Snapshots of the todo-app 👇
+![Alt Text](Screenshot%20(289).png?raw=true "Title")
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
