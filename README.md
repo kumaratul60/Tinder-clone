@@ -37,10 +37,6 @@ Snapshots of the todo-app 👇
 Snapshots of the todo-app 👇
 ![Alt Text](Screenshot%20(288).png?raw=true "Title")
 
-Snapshots of the todo-app 👇
-![Alt Text](Screenshot%20(289).png?raw=true "Title")
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
