@@ -4,9 +4,12 @@ developed a [web app](https://tinder-bot-c8dae.web.app) Single Page Application 
 
 Hosted online(firebase)
 
-used [Material-UI](https://material-ui.com/) to design, and create POP-up (Modal) functionality.
+used [Material-UI](https://material-ui.com/) to design Tinder card.
 
 used React concepts: hooks, state, etc.
+
+It can be added name, left, right swipe button, and added
+some more features in tinder card
 
 
 Snapshots of the todo-app 👇
