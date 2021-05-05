@@ -40,20 +40,16 @@ Snapshots of the tinder 👇
 
 
 Snapshots of the tinder 👇
-![Alt Text](Screenshot%20(290).png?raw=true "Title")
+![Alt Text](Screenshot%20(291).png?raw=true "Title")
 
 
 Snapshots of the tinder 👇
-![Alt Text](Screenshot%20(291).png?raw=true "Title")
+![Alt Text](Screenshot%20(286).png?raw=true "Title")
 
 
 Snapshots of the tinder 👇
 ![Alt Text](Screenshot%20(293).png?raw=true "Title")
 
-
-
-Snapshots of the tinder 👇
-![Alt Text](Screenshot%20(286).png?raw=true "Title")
 
 Snapshots of the tinder 👇
 ![Alt Text](Screenshot%20(287).png?raw=true "Title")
