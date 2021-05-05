@@ -6,10 +6,25 @@ Hosted online(firebase)
 
 used [Material-UI](https://material-ui.com/) to design Tinder card.
 
+
+# Dependencies used
+
+react-router-dom
+
+material-ui (really cool library for icons and other ui needs!)
+
+material-ui/icons
+
+material-ui/code
+
+firebase
+
+react-tinder-card
+
+
 used React concepts: hooks, state, etc.
 
-It can be added name, left, right swipe button, and added
-some more features in tinder card
+# It can be added name, left, right swipe button, and added some more features in tinder card
 
 
 Snapshots of the tinder 👇
